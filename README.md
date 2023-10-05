@@ -1,16 +1,13 @@
-### Hi there 👋
+# Biografia 👋
 
-<!--
-**Vetor321/Vetor321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🙎‍♂️ Meu nome é vitor
+- 📅 Tenho 15 anos
+- 🖥️ Gosto de jogar jogos no PC
+- 🐶 Tenho um cachorro o nome dele é montanha
+- ⚽ Gosto de jogar bola
+- 🍕 gosto de comer pizza
+- 🏋️‍♂️ Gosto de ir na academia
+- 📱 Gosto de usar o celular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/7731CXu1CFMAAAAi/playing-video-game-om-nom.gif](https://media.tenor.com/wciT7jbJwNEAAAAi/anime-gaming.gif)https://media.tenor.com/wciT7jbJwNEAAAAi/anime-gaming.gif)
